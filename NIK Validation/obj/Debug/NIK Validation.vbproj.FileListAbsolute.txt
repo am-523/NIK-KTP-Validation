@@ -1,0 +1,15 @@
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\bin\Debug\NIK Validation.exe.config
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\bin\Debug\NIK Validation.exe
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\bin\Debug\NIK Validation.pdb
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\bin\Debug\NIK Validation.xml
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\bin\Debug\NikvalidatorLib.dll
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK Validation.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK_Validation.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK_Validation.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK Validation.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK Validation.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK Validation.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK Validation.exe
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK Validation.xml
+D:\AW 17\Source Code Visual Studio 19\NIK Validation\NIK Validation\obj\Debug\NIK Validation.pdb
